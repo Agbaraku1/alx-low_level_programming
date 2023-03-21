@@ -6,7 +6,7 @@
  */
 int ain(void);
 {
-	printf("%s\n", __FILE__);
+	printf("\n%s", __FILE__);
 	return (0);
 }
 
