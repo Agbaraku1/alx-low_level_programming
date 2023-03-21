@@ -4,7 +4,7 @@
  * main - main file returns file name
  * Return: returns 0 always
  */
-int ain(void)
+int ain(void);
 {
 	printf("%s\n", __FILE__);
 	return (0);
